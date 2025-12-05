@@ -1,6 +1,4 @@
-# data-analyst-portfolio
-My data analysis portfolio featuring projects in Excel, Power BI, SQL, and Tableau, demonstrating data wrangling, visualization, and actionable insights.
-# 📊 [Your Name] - Data Analyst Portfolio
+# 📊 [Oscar Uche] - Data Analyst Portfolio
 
 ![Dashboard Preview](images/dashboard-preview.png)
 
@@ -33,9 +31,9 @@ Welcome to my data analysis portfolio! I transform raw data into actionable insi
 *Sales Performance Dashboard - Excel*
 
 ## 📫 Contact
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** ucheoscar084@gmail.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/Uche-oscar)
+- **GitHub:** [github.com/yourusername](https://github.com/uo-scar)
 
 ---
-*Portfolio last updated: [Current Date]*
+
